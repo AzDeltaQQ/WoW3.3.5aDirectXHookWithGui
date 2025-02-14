@@ -16,6 +16,9 @@ The project requires the following external libraries (included as submodules):
 -   MinHook
 -   Dear ImGui
 
+included : https://github.com/TsudaKageyu/minhook
+
+included : https://github.com/ocornut/imgui
 ## Building
 
 1.  Clone the repository with submodules:
@@ -45,31 +48,21 @@ The project requires the following external libraries (included as submodules):
     cmake --build . --config Release
     ```
 
-## Releases
-
-You can find pre-built releases on the [Releases page](https://github.com/AzDeltaQQ/WoW3.3.5aDirectXHookWithGui/releases).
-
-Each release includes:
-
--   The compiled DLL
--   Any necessary dependencies
--   Change log of new features and fixes
 
 ## Injection Methods
 
 Recommended injectors for development:
 
--   Process Hacker (recommended) - Open source and reliable
--   Extreme Injector - User-friendly alternative
--   Xenos - Feature-rich injector
-
-Note: Avoid using Cheat Engine for DLL injection as it's primarily a memory editing tool and may cause stability issues.
+-   Cheat Engine ( make sure to rename https://www.unknowncheats.me/forum/anti-cheat-bypass/504191-undetected-cheat-engine-driver-2023-bypass-anticheats-eac.html )
+-   Extreme Injector - User-friendly alternative (good alternative)
+-   Xenos - Feature-rich injector (havent tried. heard good things)
 
 ## Usage
 
 1.  Start World of Warcraft 3.3.5a.
 2.  Use your preferred DLL injector to inject the compiled DLL into the WoW process.
 3.  The GUI should appear in-game.
+4. Win Key + Insert for Show / Hide gui . 
 
 ## Notes
 
@@ -79,4 +72,4 @@ Note: Avoid using Cheat Engine for DLL injection as it's primarily a memory edit
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details 
+wtf is a license ?
