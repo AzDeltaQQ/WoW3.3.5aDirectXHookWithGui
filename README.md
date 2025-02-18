@@ -6,8 +6,10 @@ This project creates a DLL that can be injected into World of Warcraft 3.3.5a to
 
 -   Visual Studio 2019 or later
 -   CMake 3.10 or later
--   DirectX 9 SDK
+-   DirectX 9 SDK (maybe idk) 
 -   World of Warcraft 3.3.5a client (32-bit)
+
+compile as 32 bit - noob. 
 
 ## Dependencies
 
